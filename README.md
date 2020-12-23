@@ -95,20 +95,27 @@ Ultrasonic ranging module HC - SR04 provides 2cm - 700cm non-contact measurement
 
   **In India wires are RGB mode i.e. Red- Green- Black**.
 
-**Red ** – Red wire signifies the phase in electric circuit
+### Red – Red wire signifies the phase in electric circuit
 
-**Black**  – Black wires signifies neutral wire in electric circuit
+### Black – Black wires signifies neutral wire in electric circuit
 
-**Green**  – Green wire stands for grounding/ earthing in electric circuit.
+### Green – Green wire stands for grounding/ earthing in electric circuit.
 
 <br/>
 
 ## Connections
-![]()
+![](https://github.com/Amogh-Sadhu/Obstacle-avoiding-robot/blob/main/Connection%20.PNG?raw=true)
 
 # Notes
+ - Use the right power supply for the motors according to weight of your robot.
+ - Attach batteries nearer to motors(because batteries are usually heavy)
+ - Test the Servo from the above and calibrate the zero postion of servo of it is changed.
+ - You can change certain parametrs in the code to improve it for your design such as delays and PWM frequency of the motors.
 
-## Pulse-width modulation (PWM)
+<br/>
+
+## Helpful Side-Note
+### Pulse-width modulation (PWM)
 
 **Pulse width modulation**  ( **PWM** ), or  **pulse-duration modulation**  ( **PDM** ), is a method of reducing the average power delivered by an electrical signal, by effectively chopping it up into discrete parts. The average value of [voltage](https://en.wikipedia.org/wiki/Volt) (and [current](https://en.wikipedia.org/wiki/Electric_current)) fed to the [load](https://en.wikipedia.org/wiki/Electrical_load) is controlled by turning the switch between supply and load on and off at a fast rate.
 
