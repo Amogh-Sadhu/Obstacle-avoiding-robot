@@ -1,4 +1,4 @@
-# Requirements
+# Requirements :
 
 ## Arduino UNO Board
 ![](https://csg.tinkercad.com/things/4dpskvBvwBl/t725.png?rev=1548363269550000000&s=&v=1&type=circuits)
@@ -39,8 +39,8 @@ The Arduino IDE employs the program _avrdude_ to convert the executable code int
 <br/>
 
 ## L293D Motor Driver Shield
+<img src="https://images-na.ssl-images-amazon.com/images/I/51EkEcUpKwL.jpg" width="30%">
 
-![](https://images-na.ssl-images-amazon.com/images/I/51EkEcUpKwL.jpg)
 
 A motor driver IC is an integrated circuit chip which is usually used to control motors in autonomous robots. Motor driver ICs act as an interface between microprocessors in robots and the motors in the robot. The most commonly used motor driver IC&#39;s are from the L293 series such as L293D, L293NE, etc.
 
@@ -60,7 +60,7 @@ The servo motors use the +5V of the Arduino board. The voltage regulator on the 
 <br/>
 
 ## SG90 Mini Servo Motor
-![](https://images-na.ssl-images-amazon.com/images/I/41FgATzSHlL._SX425_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/41FgATzSHlL._SX425_.jpg" width="30%">
 
 It is tiny and lightweight with high output power. This servo can rotate approximately 180 degrees (90 in each direction), and works just like the standard kinds but smaller. You can use any servo code, hardware or library to control these servos .It comes with a 3 horns (arms) and hardware.
 
