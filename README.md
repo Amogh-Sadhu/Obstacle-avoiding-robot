@@ -91,9 +91,7 @@ Ultrasonic ranging module HC - SR04 provides 2cm - 700cm non-contact measurement
 **GND** : Ground
 **VCC** : 5V Supply
 
-**NOTE:**
-
-  **In India wires are RGB mode i.e. Red- Green- Black**.
+    NOTE: In India wires are RGB mode i.e. Red Green Black
 
 ### Red – Red wire signifies the phase in electric circuit
 
