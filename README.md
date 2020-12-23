@@ -29,7 +29,7 @@ The ATmega328 on the board comes preprogrammed with a [bootloader](https://en.wi
 ## Arduino IDE and Programming
 
 
-<img src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" width="50%">
+<img src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" width="30%">
 
 The [**Arduino**](https://en.wikipedia.org/wiki/Arduino)** integrated development environment (**[**IDE**](https://en.wikipedia.org/wiki/Integrated_development_environment)**)** is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform)application (for [Windows](https://en.wikipedia.org/wiki/Windows), [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux)) that is written in the programming language [Java](https://en.wikipedia.org/wiki/Java_(programming_language)). It is used to write and upload programs to Arduino compatible boards, but also, with the help of 3rd party cores, other vendor development boards.
 
