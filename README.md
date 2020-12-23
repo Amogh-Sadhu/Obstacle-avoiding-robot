@@ -103,6 +103,9 @@ Ultrasonic ranging module HC - SR04 provides 2cm - 700cm non-contact measurement
 
 <br/>
 
+## Connections
+![]()
+
 # Notes
 
 ## Pulse-width modulation (PWM)
