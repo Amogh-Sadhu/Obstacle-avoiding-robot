@@ -29,7 +29,7 @@ The ATmega328 on the board comes preprogrammed with a [bootloader](https://en.wi
 ## Arduino IDE and Programming
 
 
-<img src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" width="30%">
+<img src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" width="150">
 
 The [**Arduino**](https://en.wikipedia.org/wiki/Arduino)** integrated development environment (**[**IDE**](https://en.wikipedia.org/wiki/Integrated_development_environment)**)** is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform)application (for [Windows](https://en.wikipedia.org/wiki/Windows), [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux)) that is written in the programming language [Java](https://en.wikipedia.org/wiki/Java_(programming_language)). It is used to write and upload programs to Arduino compatible boards, but also, with the help of 3rd party cores, other vendor development boards.
 
@@ -40,7 +40,7 @@ The Arduino IDE employs the program _avrdude_ to convert the executable code int
 <br/>
 
 ## L293D Motor Driver Shield
-<img src="https://images-na.ssl-images-amazon.com/images/I/51EkEcUpKwL.jpg" width="100">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51EkEcUpKwL.jpg" width="200">
 
 
 A motor driver IC is an integrated circuit chip which is usually used to control motors in autonomous robots. Motor driver ICs act as an interface between microprocessors in robots and the motors in the robot. The most commonly used motor driver IC&#39;s are from the L293 series such as L293D, L293NE, etc.
@@ -61,7 +61,7 @@ The servo motors use the +5V of the Arduino board. The voltage regulator on the 
 <br/>
 
 ## SG90 Mini Servo Motor
-<img src="https://images-na.ssl-images-amazon.com/images/I/41FgATzSHlL._SX425_.jpg" width="70%">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41FgATzSHlL._SX425_.jpg" width="200">
 
 It is tiny and lightweight with high output power. This servo can rotate approximately 180 degrees (90 in each direction), and works just like the standard kinds but smaller. You can use any servo code, hardware or library to control these servos .It comes with a 3 horns (arms) and hardware.
 
@@ -76,7 +76,7 @@ It is tiny and lightweight with high output power. This servo can rotate approxi
 <br/>
 
 ## Ultrasonic Sensor HC-SR04
-<img src="https://images-na.ssl-images-amazon.com/images/I/51gMbHIEy4L.jpg" width="50%">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51gMbHIEy4L.jpg" width="200">
 
 Ultrasonic ranging module HC - SR04 provides 2cm - 700cm non-contact measurement function, the ranging accuracy can reach to 3mm.Ensured stable signal within 5m, gradually faded signal outside 5m till disappearing at 7m position.
  The modules includes ultrasonic transmitters, receiver and control circuit. The basic principle of work:
