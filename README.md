@@ -28,8 +28,8 @@ The ATmega328 on the board comes preprogrammed with a [bootloader](https://en.wi
 
 ## Arduino IDE and Programming
 
-![](https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg)
-<img src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" width"50%">
+
+<img src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" width="50%">
 
 The [**Arduino**](https://en.wikipedia.org/wiki/Arduino)** integrated development environment (**[**IDE**](https://en.wikipedia.org/wiki/Integrated_development_environment)**)** is a [cross-platform](https://en.wikipedia.org/wiki/Cross-platform)application (for [Windows](https://en.wikipedia.org/wiki/Windows), [macOS](https://en.wikipedia.org/wiki/MacOS), [Linux](https://en.wikipedia.org/wiki/Linux)) that is written in the programming language [Java](https://en.wikipedia.org/wiki/Java_(programming_language)). It is used to write and upload programs to Arduino compatible boards, but also, with the help of 3rd party cores, other vendor development boards.
 
@@ -61,7 +61,7 @@ The servo motors use the +5V of the Arduino board. The voltage regulator on the 
 <br/>
 
 ## SG90 Mini Servo Motor
-<img src="https://images-na.ssl-images-amazon.com/images/I/41FgATzSHlL._SX425_.jpg" width="50%">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41FgATzSHlL._SX425_.jpg" width="70%">
 
 It is tiny and lightweight with high output power. This servo can rotate approximately 180 degrees (90 in each direction), and works just like the standard kinds but smaller. You can use any servo code, hardware or library to control these servos .It comes with a 3 horns (arms) and hardware.
 
