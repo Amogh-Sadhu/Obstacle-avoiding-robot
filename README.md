@@ -40,7 +40,7 @@ The Arduino IDE employs the program _avrdude_ to convert the executable code int
 <br/>
 
 ## L293D Motor Driver Shield
-<img src="https://images-na.ssl-images-amazon.com/images/I/51EkEcUpKwL.jpg" width="50%">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51EkEcUpKwL.jpg" width="100">
 
 
 A motor driver IC is an integrated circuit chip which is usually used to control motors in autonomous robots. Motor driver ICs act as an interface between microprocessors in robots and the motors in the robot. The most commonly used motor driver IC&#39;s are from the L293 series such as L293D, L293NE, etc.
